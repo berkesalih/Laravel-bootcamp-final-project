@@ -1,0 +1,1 @@
+@extends("superAdmin.masterpages.masterpage")
